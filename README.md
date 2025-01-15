@@ -5,3 +5,6 @@ The 24th ACM International Conference on Intelligent Virtual Agents was organize
 My first paper in my PhD was published as an extended abstract titled "Exploring Influence of Social Anxiety on Embodied Face Perception during Affective Social Interactions in VR" in the ACM Digital Library. In our study, we investigate the early face perception of socially anxious individuals using EEG during social interactions with virtual agents in a VR setting. I also gave an oral presentation at the conference and received very valuable feedback from the experts. 
 
 <img src="./images/image_50394369.JPG" alt="FaceRecording_gif" width="500"/>
+
+The link of the paper in the ACM digital library: https://dl.acm.org/doi/abs/10.1145/3652988.3673952?casa_token=0OMF43yHCwQAAAAA:wBk3uppcgKHjuBRlDVwgfV6-c46-mLDAcxPqAB0rkdP1Q439AZ5DOkEiFT1bU7NYk_SNpOO5LMM
+
